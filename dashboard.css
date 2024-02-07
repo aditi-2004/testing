@@ -1,0 +1,9 @@
+.bg-teal{
+    background-color: teal;
+}
+.text-teal{
+    color: teal;
+}
+.bg-purple{
+    background: linear-gradient(45deg,rgb(117, 195, 195) 10%,rgb(137, 69, 137));
+}
